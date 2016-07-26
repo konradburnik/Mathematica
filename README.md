@@ -1,3 +1,3 @@
 # Mathematica
 
-Some projects I've done in Mathematica over the years
+Some Mathematica notebooks I've done over the years
